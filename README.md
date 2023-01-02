@@ -1,5 +1,5 @@
-Below are screen grabs of Bodada Onboarding Screens for New Users
-Trying to keep the theme with the purple hue 
+Below are the screen grabs of Bodada Onboarding Screens for New Users displayed using a Virtual Simulator Device to mimic mobile user experience
+Trying to keep the theme with the purple hue of Bodada,
 UX has been considered 
 ![Screenshot (175)](https://user-images.githubusercontent.com/44963064/210220312-9c4b86ab-6a45-44b6-9b8e-4217a1682128.png)
 ![Screenshot (176)](https://user-images.githubusercontent.com/44963064/210220362-b6f4ea8d-ecfe-4297-945b-0ac6f153984b.png)
