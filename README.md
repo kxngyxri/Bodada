@@ -1,4 +1,4 @@
-Bodada Users experience
+Below are screen grabs of Bodada Onboarding Screens for New Users
 Trying to keep the theme with the purple hue 
 UX has been considered 
 ![Screenshot (175)](https://user-images.githubusercontent.com/44963064/210220312-9c4b86ab-6a45-44b6-9b8e-4217a1682128.png)
